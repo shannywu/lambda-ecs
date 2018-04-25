@@ -1,0 +1,14 @@
+{
+    "name": "docker-test",
+    "authors": [
+        {
+            "name": "noname",
+            "email": "noreply@noname.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "aws/aws-sdk-php": "^3.0@dev",
+        "monolog/monolog": "^2.0@dev"
+    }
+}
